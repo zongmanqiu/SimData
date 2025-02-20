@@ -1,6 +1,6 @@
 # SimData: 用于产生模拟数据的SPSS宏    
 # SimData: An SPSS macro for generating simulated data    
-*Version: 1.0.1    
+*Version: 1.0.2    
 *Copyright 2025 Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
@@ -29,6 +29,7 @@
 *产生指定相关矩阵的二元变量    
 *产生指定相关矩阵的二元变量（固定1的个数）    
 *自定义不同类别组合及其数量    
+*模拟连续变量、二分变量与多分类变量的混合相关    
 ## 其它    
 *核密度图：使用nrd0方法计算核密度曲线    
 *数据转换：数据缩放与四舍五入    
