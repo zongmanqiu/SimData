@@ -1,6 +1,6 @@
 # SimData: 用于产生模拟数据的SPSS宏    
 # SimData: An SPSS macro for generating simulated data    
-*Version: 1.0.3    
+*Version: 1.0.4    
 *Copyright 2025 Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
