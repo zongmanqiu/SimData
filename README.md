@@ -1,6 +1,6 @@
 # SimData: 用于产生模拟数据的SPSS宏    
 # SimData: An SPSS macro for generating simulated data    
-*Version: 1.0.4    
+*Version: 1.0.5    
 *Copyright 2025 Qiu Zongman    
 *License: Apache 2.0    
 *E-mail: qiuzongman@foxmail.com    
@@ -25,6 +25,8 @@
 ## 多水平模型/混合模型 MLM    
 *模拟多个自变量，可指定Level 1与Level 2的相关系数    
 *在当前数据上根据固定效应系数增加因变量，可设置随机效应    
+## 多水平验证性因子分析 MCFA    
+*模拟两个水平的MCFA数据    
 ## 类别变量    
 *根据联合概率与边缘概率计算二元变量相关    
 *产生指定相关矩阵的二元变量    
